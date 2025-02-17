@@ -1,59 +1,93 @@
-
 📌 C++ DSA & OOP Repository
 
-Welcome to the C++ DSA & OOP repository! 🚀 This repository contains Data Structures & Algorithms (DSA) and Object-Oriented Programming (OOP) concepts implemented in C++. It serves as a comprehensive resource for mastering fundamental and advanced topics in C++ programming.<br>
+Welcome to the C++ DSA & OOP repository! 🚀 This repository contains Data Structures & Algorithms (DSA) and Object-Oriented Programming (OOP) concepts implemented in C++. It serves as a comprehensive resource for mastering fundamental and advanced topics in C++ programming.
 
-📁 Folder Structure<br>
+📁 Folder Structure
 
-cpp-dsa-and-oop/<br>
-│── 📂 Basics           # C++ fundamentals (syntax, I/O, loops, etc.)<br>
-│── 📂 OOP              # Object-Oriented Programming (classes, inheritance, polymorphism, etc.)<br>
-│── 📂 DSA              # Data structures (arrays, linked lists, trees, graphs, etc.)<br>
-│── 📂 Algorithms       # Sorting, searching, dynamic programming, etc.<br>
-│── 📂 Competitive      # Problems and solutions for coding competitions<br>
-│── README.md          # Project documentation<br>
+cpp-dsa-and-oop/
+│── 📂 Basics           # C++ fundamentals (syntax, I/O, loops, etc.)
+│── 📂 OOP              # Object-Oriented Programming (classes, inheritance, polymorphism, etc.)
+│── 📂 DSA              # Data structures (arrays, linked lists, trees, graphs, etc.)
+│── 📂 Algorithms       # Sorting, searching, dynamic programming, etc.
+│── 📂 Competitive      # Problems and solutions for coding competitions
+│── README.md          # Project documentation
 
-🛠️ Features<br>
+🛠️ Features
 
-✅ Well-structured C++ programs<br>
-✅ Covers DSA (arrays, linked lists, stacks, queues, trees, graphs, etc.)<br>
-✅ Covers OOP (encapsulation, inheritance, polymorphism, etc.)<br>
-✅ Efficient algorithms for problem-solving<br>
-✅ Useful for college students, interview prep, and competitive programming<br>
+✅ Well-structured C++ programs
+✅ Covers DSA (arrays, linked lists, stacks, queues, trees, graphs, etc.)
+✅ Covers OOP (encapsulation, inheritance, polymorphism, etc.)
+✅ Efficient algorithms for problem-solving
+✅ Useful for college students, interview prep, and competitive programming
 
-🚀 Getting Started<br>
+🚀 Getting Started
 
-1️⃣ Clone the repository:<br>
+1️⃣ Clone the repository:
 
-git clone https://github.com/vijayKota2776/cpp-dsa-and-oop.git<br>
+git clone https://github.com/vijayKota2776/cpp-dsa-and-oop.git
 
-2️⃣ Navigate to the project directory:<br>
+2️⃣ Navigate to the project directory:
 
-cd cpp-dsa-and-oop<br>
+cd cpp-dsa-and-oop
 
-3️⃣ Compile and run a C++ program:<br>
+3️⃣ Compile and run a C++ program:
 
 g++ filename.cpp -o output
 ./output
 
-📚 Topics Covered<br>
+📚 Topics Covered
 
-📌 C++ Basics - Variables, Data Types, Loops, Functions<br>
-📌 Object-Oriented Programming (OOP) - Classes, Objects, Inheritance, Polymorphism<br>
-📌 Data Structures - Arrays, Linked Lists, Stacks, Queues, Trees, Graphs<br>
-📌 Algorithms - Sorting, Searching, Recursion, Dynamic Programming<br>
-📌 Competitive Programming - Practice problems with efficient solutions<br>
+📌 C++ Basics
+   - Variables
+   - Data Types
+   - Loops
+   - Functions
 
-🤝 Contributing<br>
+📌 Object-Oriented Programming (OOP)
+   - Classes & Objects
+   - Constructors in a class
+   - Objects as arguments
+   - Constructor overloading
+   - Single inheritance
+   - Constructor in base class
+   - Polymorphism
+   
+📌 Data Structures
+   - Arrays
+   - Linked Lists
+   - Stacks
+   - Queues
+   - Trees
+   - Graphs
 
-🔹 Fork the repository<br>
-🔹 Create a new branch: git checkout -b yourname-branch<br>
-🔹 Commit your changes: git commit -m "Added new correction"<br>
-🔹 Push to the branch: git push origin feature-branch<br>
-🔹 Open a Pull Request<br>
+📌 Algorithms
+   - Sorting (Bubble Sort, Selection Sort)
+   - Searching (Binary Search)
+   - Recursion
+   - Dynamic Programming
 
+📌 Competitive Programming
+   - Practice problems with efficient solutions
+   - Palindrome
+   - Fibonacci
+   - Prime numbers
+   - Armstrong numbers
+   - Sine series
+   - Insert operations
+   - Merge operations
+   - Matrix operations
+   - Binary files
 
-📧 Contact<br>
+🤝 Contributing
 
-🔹 GitHub: @vijayKota2776<br>
-🔹 Email: vijaykota2776@gmail.com<br>
+🔹 Fork the repository
+🔹 Create a new branch: git checkout -b yourname-branch
+🔹 Commit your changes: git commit -m "Added new correction"
+🔹 Push to the branch: git push origin feature-branch
+🔹 Open a Pull Request
+
+📧 Contact
+
+🔹 GitHub: @vijayKota2776
+🔹 Email: vijaykota2776@gmail.com
+
